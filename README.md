@@ -3,6 +3,7 @@
 Welcome to the Job Board Delta project. The purpose of this project is to create an OSS job board that allows employers to reward job seekers and referers, speeding up the matching job matching process by utilising Web3 
 
 ## Deployments 
+UI - (https://holy-sun-7156.on.fleek.co/)[https://holy-sun-7156.on.fleek.co/]
 
 |Contract | Address | Description |
 |---------|---------|-------------| 
